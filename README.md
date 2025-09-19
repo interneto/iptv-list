@@ -11,19 +11,13 @@ This repository contains curated IPTV (Internet Protocol Television) playlists i
 ## File Structure
 
 ```txt
-iptv-list/
+list/
 │
-├── tv-channels-fav.m3u                  # Favorite channels
-├── tv-unique-channels-complete.m3u      # All unique channels (complete)
-├── tv-unique-channels-fav.m3u           # Unique favorite channels
-│
-└── iptv-github/
-	├── iptv-all.m3u
-	├── iptv-org-all.m3u
-	├── iptv-org-spain.m3u
-	├── iptv-spain-classified.m3u
-	├── iptv-spain.m3u
-	└── iptv-world.m3u
+├── iptv-all.m3u
+├── iptv-famous-tv.m3u
+├── iptv-org-all.m3u
+├── iptv-spain-listed.m3u
+└── iptv-world.m3u
 ```
 
 ## Usage
