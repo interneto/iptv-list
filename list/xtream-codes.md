@@ -10,6 +10,7 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
 
 - <https://world-iptv.club/>
 - <https://iptvfree.wuaze.com/>
+- <https://www.scribd.com/document/463893209/Codes-IPTV-Smarters-txt>
 
 ## XTREAM STALKER CREDENTIALS
 
@@ -500,6 +501,36 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
     - <http://kalitemedya45.xyz:8080:dgn2148:4hBTNyV6hcm4>
     - <http://kalitemedya45.xyz:8080:dijitalbaytar:SK2DNrP9Wy>
     - <http://kalitemedya45.xyz:8080:dgn7925:cn.3009>
+
+- IPTV Pro - Prime Plus (Multiple accounts)
+    - <http://primeplus.tv:8080:7bsH3uRh7X:mWbjXymzcm>
+    - <http://primeplus.tv:8080:jlgBoRsc:BL6cemPBoc>
+    - <http://primeplus.tv:8080:mXCTDmAACh:0BO1GxKDGa>
+    - <http://primeplus.tv:8080:jxhy0NcQnQ:qd7EC3CHn7>
+
+- IPTV Pro - Mixed Sources (Multiple accounts)
+    - <http://209.222.97.118:25461:Dave123:Dave123>
+    - <http://tv.cs10.tv:80:imp2613:1805811>
+    - <http://62.210.139.229:25461:5020350884:gangatv>
+    - <http://194.113.107.243:8000:test1:germania>
+    - <http://alltvpremiere.online:8000:RokuAllTv:Q5SRJ1fbha>
+    - <http://cdn99.live:8080:14863247:Maxtv01176665>
+    - <http://pdsrv.io:25461:alfredo:123456>
+    - <http://interlatins.com:48000:Aurora:Aurora>
+    - <http://sv1.nowiptv.net:8880:Elaine:Elaine>
+    - <http://qqtv.nl:8080:foOL0jmT69:XUoe0xVoDn>
+    - <http://iptv1.mega-ott.com:25461:frsportfranc:6504589030>
+    - <http://sv1.nowiptv.net:8880:gregory:gregory>
+    - <http://beastiptv.tv:25461:Hildebrandt:Hildebrandt>
+    - <http://sv1.nowiptv.net:8880:ivan11:ivan11>
+    - <http://pdsrv.io:25461:jacira:jacira>
+    - <http://sv1.nowiptv.net:8880:Leticia1:Leticia1>
+    - <http://sv1.nowiptv.net:8880:manu:manu>
+    - <http://interlatins.com:48000:Omar123:Omar123>
+    - <http://iptv6.premium-stv.com:25461:pro1osnsourcepro:468556621230pro>
+    - <http://95.154.194.14:8000:rnvfRzOVx9:154ptVEGQR>
+    - <http://xtiptv.xyz:25461:17094:66im8o2DpJ>
+    - <http://158.69.228.135:8000:de-2019:7rd565te3>
 
 - 2565607
     - <http://2565607.com:8080:guven105:fcSk2GUf>
