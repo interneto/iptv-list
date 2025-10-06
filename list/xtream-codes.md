@@ -1,16 +1,74 @@
 # XTREAM CODES
 
+Format of Xtream codes.
+
 ```txt
 Stalker Portal Format: title:serverURL:macAddress
 Xtream Playlist Format: http://cbrnew.dyndns.org:8080:uMD04DFb:vQgu4uLYZ2
 Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:B6:8C
 ```
 
-## Sources
+## Index
 
-- <https://world-iptv.club/>
-- <https://iptvfree.wuaze.com/>
-- <https://www.scribd.com/document/463893209/Codes-IPTV-Smarters-txt>
+- [Stalker Portal Credentials](#stalker-portal-credentials)
+- [Xtream Stalker Credentials](#xtream-stalker-credentials)
+- [Xteam Playlist Credentials](#xtream-playlist-credentials)
+- [Sources](#sources)
+
+## STALKER PORTAL CREDENTIALS
+
+- AMSTR Test
+    - <http://amstrtest.xyz:8080/c/:00:1A:79:aa:cf:1a>
+
+- Ares TV
+    - <http://ares-tv.xyz:8080/c/:00:1A:79:3c:e3:6e>
+
+- CBR New
+    - <http://cbrnew.dyndns.org:8080/c/:00:1A:79:40:8d:9e>
+    - <http://cbrnew.dyndns.org:8080/c/:00:1A:79:ba:4f:1e>
+
+- Dark Yasar TV
+    - <http://drk.yasar.tv:80/c/:00:1A:79:b7:fb:d7>
+    - <http://drk.yasar.tv:80:play:live.php?mac=00:1A:79:B7:FB:D7>
+
+- DevBox TV  
+    - <http://m.devbox.tv:80/c/:00:1A:79:af:96:05>
+
+- IPTV Wings
+    - <http://line.iptvwings.com:80/c/:00:1A:79:F3:96:D2>
+
+- Ocean Stream
+    - <http://oceanstream.me:80/c/:00:1A:79:0c:f4:ca>
+    - <http://oceanstream.me:80:play:live.php?mac=00:1A:79:0C:F4:CA>
+
+- OWL TV
+    - <http://owltv.gentv.to:8080/c/:00:1a:79:b3:75:3d>
+    - <http://owltv.gentv.to:8080/c/:00:1a:79:b6:82:e3>  
+    - <http://owltv.gentv.to:8080/c/:00:1a:79:a0:db>
+    - <http://owltv.gentv.to:8080/c/:00:1a:79:18:f1>
+    - <http://owltv.gentv.to:8080/c/:00:1a:79:86:70>
+    - <http://owltv.gentv.to:8080/c/:00:1a:79:b1:5a:5d>
+    - <http://owltv.gentv.to:8080/c/:00:1a:79:b3:b8:37>
+
+- P1 EU58
+    - <http://p1.eu58.xyz:8080/c/:00:1A:79:08:d9:ba>
+
+- Polska TV
+    - <http://polska-tv.xyz:80/c/:00:1A:79:F4:B6:8C>
+    - <http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:B6:8C>
+
+- Qruze TV
+    - <http://vip.qruzetv.site:8080/c/:00:1A:79:48:e8:15>
+
+- Raptor TV
+    - <http://ds.raptortv.de:80/c/:00:1A:79:07:c5:cd>
+    - <http://ds.raptortv.de:80:play:live.php?mac=00:1A:79:07:C5:CD>
+
+- Trip TV
+    - <http://triptv.club:80/c/:00:1A:79:55:cc:db>
+
+- Tuga 2022
+    - <http://tuga2022.ddns.net:8080/c/:00:1A:79:d3:17:8c>
 
 ## XTREAM STALKER CREDENTIALS
 
@@ -114,127 +172,6 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
 
 ## XTREAM PLAYLIST CREDENTIALS
 
-- 2565607.com (Multiple accounts)
-    - <http://2565607.com:8080:ivona675jelovcak:awBGGTHZUQ>
-    - <http://2565607.com:8080:marcmartachyenievigt6cgf:Chfz5rgz13tv>
-    - <http://2565607.com:8080:D0d0034d23a1X:ezpjNZSzx7>
-    - <http://2565607.com:8080:EkremT71:hhbCekU8wt>
-    - <http://2565607.com:8080:bedirhanguven:nxuvU3UHskmh>
-    - <http://2565607.com:8080:digitali524:acFazx1mH5>
-    - <http://2565607.com:8080:sinanbey22paket:pewdWe7t>
-    - <http://2565607.com:8080:Mesgold5731:j4sbhGX4j1>
-    - <http://2565607.com:8080:aliozsoy2667:dpUQqzqa>
-    - <http://2565607.com:8080:Albertopavonumutcc:G6lHGaw8U4cc>
-    - <http://2565607.com:8080:erolozcelik270101:269br518vsk4916t8>
-    - <http://2565607.com:8080:Klaus_Etienne:cQMG9d7Fux>
-    - <http://2565607.com:8080:MujganAktas6773:fwFAgQrpzD>
-
-- Cumhur TV
-    - <http://cumhurtv.xyz:8080:052recep1907:1907recep057052>
-
-- Fast Bounceme (Multiple accounts)  
-    - <http://fast.bounceme.net:8080:zEu6ndpwfa:DTyJhhtvYE>
-    - <http://fast.bounceme.net:8080:GPRwRmKPQQ:NBUKJ3KnnZ>
-    - <http://fast.bounceme.net:8080:CTCGms4HCU:cxBcswMcxd>
-    - <http://fast.bounceme.net:8080:e7EcKYxePr:8xhMN8ERNH>
-    - <http://fast.bounceme.net:8080:tZNnSuZtty:mFv45P731Q>
-    - <http://fast.bounceme.net:8080:KB5hdk5dWm:YxwDnkncLW>
-    - <http://fast.bounceme.net:8080:hd8ESV229H:QDcGZhEA4v>
-    - <http://fast.bounceme.net:8080:Lnx7C2HH4F:MLPWnBfVQQ>
-    - <http://fast.bounceme.net:8080:SPXm5jckV6:XBfb33tnDJ>
-    - <http://fast.bounceme.net:8080:2qWzeU5bUg:vKdPaut3JY>
-
-- Goal Hosting (Multiple accounts)
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-IgwOwbuNxA:kOTWy9ucE0>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-azxKhWg1SL:3BR3SXEU7r>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-hW4VDLAwbC:fEGYyhay9n>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-fRzFjQ49cG:oxYpzjIarB>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-WTS81NuDFZ:WydHf0Dc79>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-rIkddiMWPi:f2KoaKjz8f>
-    - <http://goal.hostingiscoremm9.xyz:8080:TouroVod-dfzIkTVZVz:WRwoYqvwO8>
-    - <http://goal.hostingiscoremm9.xyz:8080:CINEMA2EXTRA-v8uCdYrcA6:9OCz6q7B4r>
-    - <http://goal.hostingiscoremm9.xyz:8080:Cinema-V3-UL51z6xOb2:WI0ah0Tk0h>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-3WJNiVtW7e:H4XSX3oc1t>
-    - <http://goal.hostingiscoremm9.xyz:8080:TouroVod-1vtgbOHygs:aQIt9X7cIY>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-9kJ7PFw18L:iduOI9Wglu>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-8aMQA4r9zv:kJx5e4hSm7>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain2-gScKh2zZLQ:YtDBz4IsKw>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-ucKREtjVoF:YjvbAdlvHG>
-    - <http://goal.hostingiscoremm9.xyz:8080:Cinema-V3-h1C35Ujrt3:9s2ohbpHuH>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain2-55eQfjpH0q:p8GRBb3wsk>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain2-VqdQBxaH2u:9UGCdj8BRx>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-9vsYG1WLTD:F6UcbFbgpY>
-    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-YYBmKyJarv:Klzhi5wDn0>
-
-- Live Baltazar Pro
-    - <http://live.baltazar.pro:80:harunedo115whats:E5Zip8THea>
-    - <http://live.baltazar.pro:80:mersad0818whats:BV8DAwYEzr>
-
-- Pro Max ME
-    - <http://pro-max.me:8089:0939171937293:0939171937293>
-
-- Pure One TV
-    - <http://tv.pure-onetv.com:80:e4:7d:bd:63:c1:ca:HL2SMVQEXY>
-
-- SF M3U Info
-    - <http://m3u.sf-m3u.info:abdel123_914787:fJSQk9Ar>
-
-- Yesimes OK Nirvana
-    - <http://yesimes.oknirvana.club:8880:DAALM1923:C3ggHrsmbK>
-
-## STALKER PORTAL CREDENTIALS
-
-- AMSTR Test
-    - <http://amstrtest.xyz:8080/c/:00:1A:79:aa:cf:1a>
-
-- Ares TV
-    - <http://ares-tv.xyz:8080/c/:00:1A:79:3c:e3:6e>
-
-- CBR New
-    - <http://cbrnew.dyndns.org:8080/c/:00:1A:79:40:8d:9e>
-    - <http://cbrnew.dyndns.org:8080/c/:00:1A:79:ba:4f:1e>
-
-- Dark Yasar TV
-    - <http://drk.yasar.tv:80/c/:00:1A:79:b7:fb:d7>
-
-- DevBox TV  
-    - <http://m.devbox.tv:80/c/:00:1A:79:af:96:05>
-
-- IPTV Wings
-    - <http://line.iptvwings.com:80/c/:00:1A:79:F3:96:D2>
-
-- Ocean Stream
-    - <http://oceanstream.me:80/c/:00:1A:79:0c:f4:ca>
-
-- OWL TV
-    - <http://owltv.gentv.to:8080/c/:00:1a:79:b3:75:3d>
-    - <http://owltv.gentv.to:8080/c/:00:1a:79:b6:82:e3>  
-    - <http://owltv.gentv.to:8080/c/:00:1a:79:a0:db>
-    - <http://owltv.gentv.to:8080/c/:00:1a:79:18:f1>
-    - <http://owltv.gentv.to:8080/c/:00:1a:79:86:70>
-    - <http://owltv.gentv.to:8080/c/:00:1a:79:b1:5a:5d>
-    - <http://owltv.gentv.to:8080/c/:00:1a:79:b3:b8:37>
-
-- P1 EU58
-    - <http://p1.eu58.xyz:8080/c/:00:1A:79:08:d9:ba>
-
-- Polska TV
-    - <http://polska-tv.xyz:80/c/:00:1A:79:F4:B6:8C>
-
-- Qruze TV
-    - <http://vip.qruzetv.site:8080/c/:00:1A:79:48:e8:15>
-
-- Raptor TV
-    - <http://ds.raptortv.de:80/c/:00:1A:79:07:c5:cd>
-
-- Trip TV
-    - <http://triptv.club:80/c/:00:1A:79:55:cc:db>
-
-- Tuga 2022
-    - <http://tuga2022.ddns.net:8080/c/:00:1A:79:d3:17:8c>
-
-## XTREAM PLAYLIST CREDENTIALS (Additional)
-
 - 195.66.215.6 (Multiple accounts)
     - <http://195.66.215.6:80:Sorin_Nicolae:yZOU1uaX0DZAEJXL3dP1FSonb186ss>
     - <http://195.66.215.6:80:Spataru_Andreea:Spataru1122>
@@ -255,30 +192,36 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
     - <http://195.66.215.6:80:AN228341:F8EgqZQcg8cMvedJMBd7UA5rUOANoN>
     - <http://195.66.215.6:80:VladRaduIptv:CoqyxK6BK4jpD7sF5It7lRYRdy2JTM>
 
-- World Panel (Multiple accounts)
-    - <http://world-panel.co:8080:svizzer@@:fire@@>
-    - <http://world-panel.co:8080:marcgiord:giordano>
-    - <http://world-panel.co:8080:SALVO-BAR-GALLET@@:ZQRTUKJ76432@@>
-    - <http://world-panel.co:8080:ninonorinberga30:rcLszgyzgjzJ>
-    - <http://world-panel.co:8080:maurizioespano:gfbjjj7jr6eb7j>
-    - <http://world-panel.co:8080:@valent@:wc7RU@ZaUYH>
-    - <http://world-panel.co:8080:vincenzoinghi:inter1234>
+- 2565607.com (Multiple accounts)
+    - <http://2565607.com:8080:ivona675jelovcak:awBGGTHZUQ>
+    - <http://2565607.com:8080:marcmartachyenievigt6cgf:Chfz5rgz13tv>
+    - <http://2565607.com:8080:D0d0034d23a1X:ezpjNZSzx7>
+    - <http://2565607.com:8080:EkremT71:hhbCekU8wt>
+    - <http://2565607.com:8080:bedirhanguven:nxuvU3UHskmh>
+    - <http://2565607.com:8080:digitali524:acFazx1mH5>
+    - <http://2565607.com:8080:sinanbey22paket:pewdWe7t>
+    - <http://2565607.com:8080:Mesgold5731:j4sbhGX4j1>
+    - <http://2565607.com:8080:aliozsoy2667:dpUQqzqa>
+    - <http://2565607.com:8080:Albertopavonumutcc:G6lHGaw8U4cc>
+    - <http://2565607.com:8080:erolozcelik270101:269br518vsk4916t8>
+    - <http://2565607.com:8080:Klaus_Etienne:cQMG9d7Fux>
+    - <http://2565607.com:8080:MujganAktas6773:fwFAgQrpzD>
 
-- FIFI Smart TV (Multiple accounts)
-    - <http://fifismartv.net:8080:AN222324:jc0Bd2Mxghhjzsy7mGGVjFTQxRqDLS>
-    - <http://fifismartv.net:8080:AN221819:KGqxvArE9a>
-    - <http://fifismartv.net:8080:Irimia_Simona_Fata:7c8LG4v5rfvMcJhJHtfMaMQE6GZ9Qs>
-    - <http://fifismartv.net:8080:AN228507:8gssz6PTI7GUZfIw37YKi9VP7SNWIZ>
-    - <http://fifismartv.net:8080:AN223298:X0aCKiiOWK>
-    - <http://fifismartv.net:8080:AN227971:oWYbnL4H3gft43bFAQEcGMRO3tAMgN>
-
-- VIP Vahz
-    - <http://vipvahz.top:8080:VIP016261740758943356:5b84d1a125b1>
+- 2565607
+    - <http://2565607.com:8080:guven105:fcSk2GUf>
+    - <http://2565607.com:8080:Eozan1:bcsXfuG3bX>
 
 - 4Host (Multiple accounts)
     - <http://4host.cc:8080:2863839039:03847849300>
     - <http://4host.cc:8080:35234672485965:325983213519>
     - <http://4host.cc:8080:372725141998:660055997042>
+
+- CBR New
+    - <http://cbrnew.dyndns.org:8080:uMD04DFb:vQgu4uLYZ2>
+    - <http://cbrnew.dyndns.org:8080:wt31Y8fe:qZZifGLXpH>
+
+- Cumhur TV
+    - <http://cumhurtv.xyz:8080:052recep1907:1907recep057052>
 
 - Euro Royals (Multiple accounts)
     - <http://euroroyals.com:8080:hulyaabladatteln200326ygt:hrPrZca>
@@ -320,20 +263,230 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
     - <http://euroroyals.com:8080:cemil43:42432432>
     - <http://euroroyals.com:8080:wuOeM0MGHv:W3uAURV6PE>
 
-- YRTDS0911 (Multiple accounts)
-    - <http://yrtds0911.xyz:8080:Ruhiyavuz13:4787rvgdvgy7>
-    - <http://yrtds0911.xyz:8080:Mustafakoca:6TnBEa564a>
-    - <http://yrtds0911.xyz:8080:sfk0070:89d0a85f08a9faaf>
-    - <http://yrtds0911.xyz:8080:Dgnclkl:Dgn12>
-    - <http://yrtds0911.xyz:8080:mhmt5570:mhmt00>
-    - <http://yrtds0911.xyz:8080:Aesen123:xRHekNvZT3Vq>
-    - <http://yrtds0911.xyz:8080:vlknaksoy:EXpwfCwZEj>
+- Fast Bounceme (Multiple accounts)  
+    - <http://fast.bounceme.net:8080:zEu6ndpwfa:DTyJhhtvYE>
+    - <http://fast.bounceme.net:8080:GPRwRmKPQQ:NBUKJ3KnnZ>
+    - <http://fast.bounceme.net:8080:CTCGms4HCU:cxBcswMcxd>
+    - <http://fast.bounceme.net:8080:e7EcKYxePr:8xhMN8ERNH>
+    - <http://fast.bounceme.net:8080:tZNnSuZtty:mFv45P731Q>
+    - <http://fast.bounceme.net:8080:KB5hdk5dWm:YxwDnkncLW>
+    - <http://fast.bounceme.net:8080:hd8ESV229H:QDcGZhEA4v>
+    - <http://fast.bounceme.net:8080:Lnx7C2HH4F:MLPWnBfVQQ>
+    - <http://fast.bounceme.net:8080:SPXm5jckV6:XBfb33tnDJ>
+    - <http://fast.bounceme.net:8080:2qWzeU5bUg:vKdPaut3JY>
+
+- FIFI Smart TV (Multiple accounts)
+    - <http://fifismartv.net:8080:AN222324:jc0Bd2Mxghhjzsy7mGGVjFTQxRqDLS>
+    - <http://fifismartv.net:8080:AN221819:KGqxvArE9a>
+    - <http://fifismartv.net:8080:Irimia_Simona_Fata:7c8LG4v5rfvMcJhJHtfMaMQE6GZ9Qs>
+    - <http://fifismartv.net:8080:AN228507:8gssz6PTI7GUZfIw37YKi9VP7SNWIZ>
+    - <http://fifismartv.net:8080:AN223298:X0aCKiiOWK>
+    - <http://fifismartv.net:8080:AN227971:oWYbnL4H3gft43bFAQEcGMRO3tAMgN>
+
+- Goal Hosting (Multiple accounts)
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-IgwOwbuNxA:kOTWy9ucE0>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-azxKhWg1SL:3BR3SXEU7r>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-hW4VDLAwbC:fEGYyhay9n>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-fRzFjQ49cG:oxYpzjIarB>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-WTS81NuDFZ:WydHf0Dc79>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-rIkddiMWPi:f2KoaKjz8f>
+    - <http://goal.hostingiscoremm9.xyz:8080:TouroVod-dfzIkTVZVz:WRwoYqvwO8>
+    - <http://goal.hostingiscoremm9.xyz:8080:CINEMA2EXTRA-v8uCdYrcA6:9OCz6q7B4r>
+    - <http://goal.hostingiscoremm9.xyz:8080:Cinema-V3-UL51z6xOb2:WI0ah0Tk0h>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-3WJNiVtW7e:H4XSX3oc1t>
+    - <http://goal.hostingiscoremm9.xyz:8080:TouroVod-1vtgbOHygs:aQIt9X7cIY>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-9kJ7PFw18L:iduOI9Wglu>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-8aMQA4r9zv:kJx5e4hSm7>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain2-gScKh2zZLQ:YtDBz4IsKw>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-ucKREtjVoF:YjvbAdlvHG>
+    - <http://goal.hostingiscoremm9.xyz:8080:Cinema-V3-h1C35Ujrt3:9s2ohbpHuH>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain2-55eQfjpH0q:p8GRBb3wsk>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain2-VqdQBxaH2u:9UGCdj8BRx>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-9vsYG1WLTD:F6UcbFbgpY>
+    - <http://goal.hostingiscoremm9.xyz:8080:cprimemain-YYBmKyJarv:Klzhi5wDn0>
+
+- Germany Servers (Multiple accounts)
+    - <http://germanyservers1.net:8080:smhersl09:s5022411E>
+    - <http://germanyservers1.net:8080:5FOqVomE:eAbWTV0j>
+    - <http://germanyservers1.net:8080:cihanacer:cihan1989>
+    - <http://germanyservers1.net:8080:degokhanyilmaz:cfae6vavs>
+    - <http://germanyservers1.net:8080:ceylansari:ObnYs4oUt>
+    - <http://germanyservers1.net:8080:dismurat:Y11TnMpmMW>
+    - <http://germanyservers1.net:8080:deservetyilmaz:gb6gf8c6z>
+    - <http://germanyservers1.net:8080:doganavci1:e9lPYzJgLA>
+    - <http://germanyservers1.net:8080:aeMw9EHBzk:1pcxTUsdJ1>
+    - <http://germanyservers1.net:8080:cangokhan:08eyn56cd>
+    - <http://germanyservers1.net:8080:cumhurxy:ovBIMaha7L>
+    - <http://germanyservers1.net:8080:doguscoskun:NzuuoDcYM>
+    - <http://germanyservers1.net:8080:emregencer:yp4fJzKoQp>
+    - <http://germanyservers1.net:8080:ersinaykutmercan:IUYzWDZnOv>
+    - <http://germanyservers1.net:8080:erkanraifkutlu:tCBkiEONOZ>
+    - <http://germanyservers1.net:8080:firatoskan:9su48H7BmY>
+    - <http://germanyservers1.net:8080:gunayay:PaO7Hsdoee>
+    - <http://germanyservers1.net:8080:ibrahimapaydin:pUyy5k85p>
+    - <http://germanyservers1.net:8080:LmtEfLTshx:iA1Okjvq8M>
+    - <http://germanyservers1.net:8080:mrtozgun:M095247o>
+    - <http://germanyservers1.net:8080:MuratGozuacik:P8h2SKqzE2>
+    - <http://germanyservers1.net:8080:salihtiglii:mfDA33vkS>
+    - <http://germanyservers1.net:8080:selcukcetin:465jr34ft>
+    - <http://germanyservers1.net:8080:serefsemrci:R1tF8SQeI8>
+    - <http://germanyservers1.net:8080:tamerozugeldi:5333224132>
+    - <http://germanyservers1.net:8080:teknbarak:7drorjref>
+    - <http://germanyservers1.net:8080:tetikhakan:hEyC8BwFy2>
+    - <http://germanyservers1.net:8080:sinanoz:pYAPcKwnPd>
+    - <http://germanyservers1.net:8080:sinanbal:my64io59h>
+    - <http://germanyservers1.net:8080:tredizgurver:0z0576mg3>
+    - <http://germanyservers1.net:8080:tolgaacar:ZfAHUBCBN>
+    - <http://germanyservers1.net:8080:ufuksengul:Yjqp97nKOX>
+    - <http://germanyservers1.net:8080:trcerenmutluer:ov3metpan>
+    - <http://germanyservers1.net:8080:tugaykaratas:898539i1r>
+    - <http://germanyservers1.net:8080:ufukcemsir:42tggyn9v>
+    - <http://germanyservers1.net:8080:tT0rjgSDzf:LHkoZdD3p7>
+    - <http://germanyservers1.net:8080:volkankocyigit:16fgk0r45>
+    - <http://germanyservers1.net:8080:zeynoselda:NJybaPpkE5>
+    - <http://germanyservers1.net:8080:yunusemreyilmaz:MbdhTBCN>
+
+- Ghost TV (placeholder credentials)  
+    - <http://ghosttv.art:80>:`<username>`:`<password>`
+
+- Gold Pro 3 (Multiple accounts)
+    - <http://goldpro3.xyz:8080:emreleyla:F5LTb7MDc2JA>
+    - <http://goldpro3.xyz:8080:abone1024:13256874>
+    - <http://goldpro3.xyz:8080:feritdogan:ferit.1809>
+    - <http://goldpro3.xyz:8080:XF1MGC6W:8RH7LWES>
+    - <http://goldpro3.xyz:8080:r80g51v72k63:v73x13012025>
+    - <http://goldpro3.xyz:8080:b58t39p74m21:b26x13012025>
+    - <http://goldpro3.xyz:8080:aktarsabit:35anf786@>
+    - <http://goldpro3.xyz:8080:@abone8124:Adr693949>
+    - <http://goldpro3.xyz:8080:rSB5acgJ:ZmGGh7pBAcDK>
+    - <http://goldpro3.xyz:8080:d8ec856de93c33c8:da94f375bfa98ff9>
+    - <http://goldpro3.xyz:8080:ttRqhF71as:b3jz54SXWF>
+    - <http://goldpro3.xyz:8080:gBMtYjtnMq:frSF18CZJM>
+    - <http://goldpro3.xyz:8080:sNQzmzR5Xx:j9qmtXFDGT>
+    - <http://goldpro3.xyz:8080:jyqwP3Dkag:rcWjj7TN8p>
+    - <http://goldpro3.xyz:8080:d3GKfadrEk:a28ZhkprDF>
+    - <http://goldpro3.xyz:8080:yB17aT0fXC:keUzEaYkM9>
+    - <http://goldpro3.xyz:8080:gXwTzt7pp1:mpuAQEaWQC>
+    - <http://goldpro3.xyz:8080:h4YQxsTk:amF7WqD>
+    - <http://goldpro3.xyz:8080:hY7DbjWG:bx3qxKd>
+    - <http://goldpro3.xyz:8080:D1m1tr1s:3857c4>
+    - <http://goldpro3.xyz:8080:Mert.1905:Mert.4273>
+    - <http://goldpro3.xyz:8080:korkmaz:korkmaz2023>
+    - <http://goldpro3.xyz:8080:xc1543tr:sbcj374>
+    - <http://goldpro3.xyz:8080:abone8366.01:asd958291>
+    - <http://goldpro3.xyz:8080:asd123asd:fkASPnqvRr>
+    - <http://goldpro3.xyz:8080:xc0543.01:stbLaTa5tJfP>
+    - <http://goldpro3.xyz:8080:abone8487:asd742628>
+
+- IPTV Pro - Prime Plus (Multiple accounts)
+    - <http://primeplus.tv:8080:7bsH3uRh7X:mWbjXymzcm>
+    - <http://primeplus.tv:8080:jlgBoRsc:BL6cemPBoc>
+    - <http://primeplus.tv:8080:mXCTDmAACh:0BO1GxKDGa>
+    - <http://primeplus.tv:8080:jxhy0NcQnQ:qd7EC3CHn7>
+
+- IPTV Pro - Mixed Sources (Multiple accounts)
+    - <http://209.222.97.118:25461:Dave123:Dave123>
+    - <http://tv.cs10.tv:80:imp2613:1805811>
+    - <http://62.210.139.229:25461:5020350884:gangatv>
+    - <http://194.113.107.243:8000:test1:germania>
+    - <http://alltvpremiere.online:8000:RokuAllTv:Q5SRJ1fbha>
+    - <http://cdn99.live:8080:14863247:Maxtv01176665>
+    - <http://pdsrv.io:25461:alfredo:123456>
+    - <http://interlatins.com:48000:Aurora:Aurora>
+    - <http://sv1.nowiptv.net:8880:Elaine:Elaine>
+    - <http://qqtv.nl:8080:foOL0jmT69:XUoe0xVoDn>
+    - <http://iptv1.mega-ott.com:25461:frsportfranc:6504589030>
+    - <http://sv1.nowiptv.net:8880:gregory:gregory>
+    - <http://beastiptv.tv:25461:Hildebrandt:Hildebrandt>
+    - <http://sv1.nowiptv.net:8880:ivan11:ivan11>
+    - <http://pdsrv.io:25461:jacira:jacira>
+    - <http://sv1.nowiptv.net:8880:Leticia1:Leticia1>
+    - <http://sv1.nowiptv.net:8880:manu:manu>
+    - <http://interlatins.com:48000:Omar123:Omar123>
+    - <http://iptv6.premium-stv.com:25461:pro1osnsourcepro:468556621230pro>
+    - <http://95.154.194.14:8000:rnvfRzOVx9:154ptVEGQR>
+    - <http://xtiptv.xyz:25461:17094:66im8o2DpJ>
+    - <http://158.69.228.135:8000:de-2019:7rd565te3>
+
+- Kalite Medya 45 (Multiple accounts)
+    - <http://kalitemedya45.xyz:8080:846734saold:dK5GzH92CK5W>
+    - <http://kalitemedya45.xyz:8080:Aesen123:xRHekNvZT3Vq>
+    - <http://kalitemedya45.xyz:8080:Can05033703:mCxtLKVXJS>
+    - <http://kalitemedya45.xyz:8080:Dgnclkl:Dgn12>
+    - <http://kalitemedya45.xyz:8080:Ercanersen:94774fert3674>
+    - <http://kalitemedya45.xyz:8080:Gvnclkl:Gvn12>
+    - <http://kalitemedya45.xyz:8080:Kkasifold8474:zXRFAcvdJ2>
+    - <http://kalitemedya45.xyz:8080:Mkayhan846476:48DuwSgApZHt>
+    - <http://kalitemedya45.xyz:8080:Nemo8734812:N5seNey2jJZt>
+    - <http://kalitemedya45.xyz:8080:Nycist3497967865:9yeXHFCMa5Qk>
+    - <http://kalitemedya45.xyz:8080:Osman0608:sKp578Zqw6>
+    - <http://kalitemedya45.xyz:8080:Oztrk525252:9MvRuYqbAaqk>
+    - <http://kalitemedya45.xyz:8080:PEKSEN43:hrhHXsjfEFwj>
+    - <http://kalitemedya45.xyz:8080:Ranamart746:57feret646se5>
+    - <http://kalitemedya45.xyz:8080:Senol53736:4373638serde>
+    - <http://kalitemedya45.xyz:8080:Ruhiyavuz13:4787rvgdvgy7>
+    - <http://kalitemedya45.xyz:8080:Skartun05:U595TEr3sRyK>
+    - <http://kalitemedya45.xyz:8080:adem000497876:X4k44UgUhf4E>
+    - <http://kalitemedya45.xyz:8080:akrts94old23:MtAb5RFrQY4v>
+    - <http://kalitemedya45.xyz:8080:atmaca23:Jmc2Ds7RXz>
+    - <http://kalitemedya45.xyz:8080:berk6775675823:nQ9MvSaXDVE2>
+    - <http://kalitemedya45.xyz:8080:brh6168:EKpKrPfjkvvR>
+    - <http://kalitemedya45.xyz:8080:brk48:tbn.13022024>
+    - <http://kalitemedya45.xyz:8080:brk8131:cn.18122023>
+    - <http://kalitemedya45.xyz:8080:brkbysl464:Ke7SbTwshJpk>
+    - <http://kalitemedya45.xyz:8080:brky0445:brk00>
+    - <http://kalitemedya45.xyz:8080:btk8743:Qfpz7AEqaN>
+    - <http://kalitemedya45.xyz:8080:bsk05:kdA3YFA3yW>
+    - <http://kalitemedya45.xyz:8080:by0156:bb00>
+    - <http://kalitemedya45.xyz:8080:dgn2148:4hBTNyV6hcm4>
+    - <http://kalitemedya45.xyz:8080:dijitalbaytar:SK2DNrP9Wy>
+    - <http://kalitemedya45.xyz:8080:dgn7925:cn.3009>
+
+- Live Baltazar Pro
+    - <http://live.baltazar.pro:80:harunedo115whats:E5Zip8THea>
+    - <http://live.baltazar.pro:80:mersad0818whats:BV8DAwYEzr>
+
+- M5IP Club
+    - <http://m5ip.club:80:play:HzzVCxDkpBdzFSs-5UByTXqeBXEMoo44pq9HLCDe_8jp5dqYvGA2A_FweCOZ0Nw5PQ26nLXAXJvnCtP9XlXjVrr6dm2xCZVDuFEKgtXc5aU>
+    - <http://m5ip.club:80:play:7oa53eMxvxuto2aGs0ZLm6Y7PT0iYJ_tKJPeJIJLM2MZRKPjZM_sB-lqLBYo6AALr7mlfhnN9JiVhLZf5xsM9nK8-aKXDtyT-ZzdLqf1fzA>
+    - <http://m5ip.club:80:play:LSAABjXI1QHCED6I_3V5uHz5DqVytiWZ-kNymUmT0HrH_ji7y74ce0Loe1gaOyvMu-UB114E-FeIGcg3MULmQykV9EoH5d3b_KnqY11tNjQ>
+    - <http://m5ip.club:80:play:mAr0Tel7H1-TgRwPjU6vZDCNq5pwDII17o7uGVmJCH_R3RVZQH9OT2oezcV-L29dbQGUabdVj9K0g3QaMi5Mn4une1FGrm-h7F3cQCRYJ1Y>
+    - <http://m5ip.club:80:play:mAr0Tel7H1-TgRwPjU6vZDCNq5pwDII17o7uGVmJCH_s2cuDMzqWu9e5yOFvgRH-46bMSTw_AHsgdQccAH5ol5uOr8q5L1oBOkBGaahiAGg>
+
+- MedoTV  
+    - <http://medotv.nl:8000:wAKjYFQfdq:mk7kDOwKOe>
+    - <http://medotv.nl:8000:NX0ggwuRaP:Iqcg2BIk38>
+    - <http://medotv.nl:8000:xBdpPchfbL:AUv9DnAnEa>
+    - <http://medotv.nl:8000:aGS2wdpW3F:63bCWdZQH5>
 
 - Nuh Proxy TV (Multiple accounts)
     - <http://nuhproxtv.shop:8080:mhmt0111:mhm.m40>
     - <http://nuhproxtv.shop:8080:Yilmaz874848:4847fcvsfe124>
     - <http://nuhproxtv.shop:8080:rmn3110:rmn3110>
     - <http://nuhproxtv.shop:8080:sfk0070:89d0a85f08a9faaf>
+
+- Picbein (Multiple accounts)
+    - <http://picbein.xyz:80:fikrettokluoglu12:12.10.2022>
+    - <http://picbein.xyz:80:karakas11:08102021haj@>
+    - <http://picbein.xyz:80:niastar01:10122022%40>
+    - <http://picbein.xyz:80:salihozberk3244:02102021adsf@>
+    - <http://picbein.xyz:80:Hal.Cx0723:YRS5VNU3cM>
+    - <http://picbein.xyz:80:kbizden09:13112022@>
+    - <http://picbein.xyz:80:cemilyuksel:16.04.2021>
+    - <http://picbein.xyz:80:fatihturan:15092022.fth12>
+    - <http://picbein.xyz:80:Muratkzgozfr:ZKLEb5Rrzs>
+
+- Pro Max ME
+    - <http://pro-max.me:8089:0939171937293:0939171937293>
+
+- Pure One TV
+    - <http://tv.pure-onetv.com:80:e4:7d:bd:63:c1:ca:HL2SMVQEXY>
+
+- Skupi Club
+    - <http://skupi.club:8080:RD026:M3vjVCzwVQ>
+
+- SF M3U Info
+    - <http://m3u.sf-m3u.info:abdel123_914787:fJSQk9Ar>
 
 - TV Matrix (Multiple accounts)
     - <http://tvmatrix.xyz:8080:ygt1802:lhn.5214>
@@ -387,191 +540,35 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
     - <http://tvmatrix.xyz:8080:srkn1990:rs.0311>
     - <http://tvmatrix.xyz:8080:skr9434:skr00>
 
-- Germany Servers (Multiple accounts)
-    - <http://germanyservers1.net:8080:smhersl09:s5022411E>
-    - <http://germanyservers1.net:8080:5FOqVomE:eAbWTV0j>
-    - <http://germanyservers1.net:8080:cihanacer:cihan1989>
-    - <http://germanyservers1.net:8080:degokhanyilmaz:cfae6vavs>
-    - <http://germanyservers1.net:8080:ceylansari:ObnYs4oUt>
-    - <http://germanyservers1.net:8080:dismurat:Y11TnMpmMW>
-    - <http://germanyservers1.net:8080:deservetyilmaz:gb6gf8c6z>
-    - <http://germanyservers1.net:8080:doganavci1:e9lPYzJgLA>
-    - <http://germanyservers1.net:8080:aeMw9EHBzk:1pcxTUsdJ1>
-    - <http://germanyservers1.net:8080:cangokhan:08eyn56cd>
-    - <http://germanyservers1.net:8080:cumhurxy:ovBIMaha7L>
-    - <http://germanyservers1.net:8080:doguscoskun:NzuuoDcYM>
-    - <http://germanyservers1.net:8080:emregencer:yp4fJzKoQp>
-    - <http://germanyservers1.net:8080:ersinaykutmercan:IUYzWDZnOv>
-    - <http://germanyservers1.net:8080:erkanraifkutlu:tCBkiEONOZ>
-    - <http://germanyservers1.net:8080:firatoskan:9su48H7BmY>
-    - <http://germanyservers1.net:8080:gunayay:PaO7Hsdoee>
-    - <http://germanyservers1.net:8080:ibrahimapaydin:pUyy5k85p>
-    - <http://germanyservers1.net:8080:LmtEfLTshx:iA1Okjvq8M>
-    - <http://germanyservers1.net:8080:mrtozgun:M095247o>
-    - <http://germanyservers1.net:8080:MuratGozuacik:P8h2SKqzE2>
-    - <http://germanyservers1.net:8080:salihtiglii:mfDA33vkS>
-    - <http://germanyservers1.net:8080:selcukcetin:465jr34ft>
-    - <http://germanyservers1.net:8080:serefsemrci:R1tF8SQeI8>
-    - <http://germanyservers1.net:8080:tamerozugeldi:5333224132>
-    - <http://germanyservers1.net:8080:teknbarak:7drorjref>
-    - <http://germanyservers1.net:8080:tetikhakan:hEyC8BwFy2>
-    - <http://germanyservers1.net:8080:sinanoz:pYAPcKwnPd>
-    - <http://germanyservers1.net:8080:sinanbal:my64io59h>
-    - <http://germanyservers1.net:8080:tredizgurver:0z0576mg3>
-    - <http://germanyservers1.net:8080:tolgaacar:ZfAHUBCBN>
-    - <http://germanyservers1.net:8080:ufuksengul:Yjqp97nKOX>
-    - <http://germanyservers1.net:8080:trcerenmutluer:ov3metpan>
-    - <http://germanyservers1.net:8080:tugaykaratas:898539i1r>
-    - <http://germanyservers1.net:8080:ufukcemsir:42tggyn9v>
-    - <http://germanyservers1.net:8080:tT0rjgSDzf:LHkoZdD3p7>
-    - <http://germanyservers1.net:8080:volkankocyigit:16fgk0r45>
-    - <http://germanyservers1.net:8080:zeynoselda:NJybaPpkE5>
-    - <http://germanyservers1.net:8080:yunusemreyilmaz:MbdhTBCN>
-
-- Gold Pro 3 (Multiple accounts)
-    - <http://goldpro3.xyz:8080:emreleyla:F5LTb7MDc2JA>
-    - <http://goldpro3.xyz:8080:abone1024:13256874>
-    - <http://goldpro3.xyz:8080:feritdogan:ferit.1809>
-    - <http://goldpro3.xyz:8080:XF1MGC6W:8RH7LWES>
-    - <http://goldpro3.xyz:8080:r80g51v72k63:v73x13012025>
-    - <http://goldpro3.xyz:8080:b58t39p74m21:b26x13012025>
-    - <http://goldpro3.xyz:8080:aktarsabit:35anf786@>
-    - <http://goldpro3.xyz:8080:@abone8124:Adr693949>
-    - <http://goldpro3.xyz:8080:rSB5acgJ:ZmGGh7pBAcDK>
-    - <http://goldpro3.xyz:8080:d8ec856de93c33c8:da94f375bfa98ff9>
-    - <http://goldpro3.xyz:8080:ttRqhF71as:b3jz54SXWF>
-    - <http://goldpro3.xyz:8080:gBMtYjtnMq:frSF18CZJM>
-    - <http://goldpro3.xyz:8080:sNQzmzR5Xx:j9qmtXFDGT>
-    - <http://goldpro3.xyz:8080:jyqwP3Dkag:rcWjj7TN8p>
-    - <http://goldpro3.xyz:8080:d3GKfadrEk:a28ZhkprDF>
-    - <http://goldpro3.xyz:8080:yB17aT0fXC:keUzEaYkM9>
-    - <http://goldpro3.xyz:8080:gXwTzt7pp1:mpuAQEaWQC>
-    - <http://goldpro3.xyz:8080:h4YQxsTk:amF7WqD>
-    - <http://goldpro3.xyz:8080:hY7DbjWG:bx3qxKd>
-    - <http://goldpro3.xyz:8080:D1m1tr1s:3857c4>
-    - <http://goldpro3.xyz:8080:Mert.1905:Mert.4273>
-    - <http://goldpro3.xyz:8080:korkmaz:korkmaz2023>
-    - <http://goldpro3.xyz:8080:xc1543tr:sbcj374>
-    - <http://goldpro3.xyz:8080:abone8366.01:asd958291>
-    - <http://goldpro3.xyz:8080:asd123asd:fkASPnqvRr>
-    - <http://goldpro3.xyz:8080:xc0543.01:stbLaTa5tJfP>
-    - <http://goldpro3.xyz:8080:abone8487:asd742628>
-
-- Picbein (Multiple accounts)
-    - <http://picbein.xyz:80:fikrettokluoglu12:12.10.2022>
-    - <http://picbein.xyz:80:karakas11:08102021haj@>
-    - <http://picbein.xyz:80:niastar01:10122022%40>
-    - <http://picbein.xyz:80:salihozberk3244:02102021adsf@>
-    - <http://picbein.xyz:80:Hal.Cx0723:YRS5VNU3cM>
-    - <http://picbein.xyz:80:kbizden09:13112022@>
-    - <http://picbein.xyz:80:cemilyuksel:16.04.2021>
-    - <http://picbein.xyz:80:fatihturan:15092022.fth12>
-    - <http://picbein.xyz:80:Muratkzgozfr:ZKLEb5Rrzs>
-
-- Kalite Medya 45 (Multiple accounts)
-    - <http://kalitemedya45.xyz:8080:846734saold:dK5GzH92CK5W>
-    - <http://kalitemedya45.xyz:8080:Aesen123:xRHekNvZT3Vq>
-    - <http://kalitemedya45.xyz:8080:Can05033703:mCxtLKVXJS>
-    - <http://kalitemedya45.xyz:8080:Dgnclkl:Dgn12>
-    - <http://kalitemedya45.xyz:8080:Ercanersen:94774fert3674>
-    - <http://kalitemedya45.xyz:8080:Gvnclkl:Gvn12>
-    - <http://kalitemedya45.xyz:8080:Kkasifold8474:zXRFAcvdJ2>
-    - <http://kalitemedya45.xyz:8080:Mkayhan846476:48DuwSgApZHt>
-    - <http://kalitemedya45.xyz:8080:Nemo8734812:N5seNey2jJZt>
-    - <http://kalitemedya45.xyz:8080:Nycist3497967865:9yeXHFCMa5Qk>
-    - <http://kalitemedya45.xyz:8080:Osman0608:sKp578Zqw6>
-    - <http://kalitemedya45.xyz:8080:Oztrk525252:9MvRuYqbAaqk>
-    - <http://kalitemedya45.xyz:8080:PEKSEN43:hrhHXsjfEFwj>
-    - <http://kalitemedya45.xyz:8080:Ranamart746:57feret646se5>
-    - <http://kalitemedya45.xyz:8080:Senol53736:4373638serde>
-    - <http://kalitemedya45.xyz:8080:Ruhiyavuz13:4787rvgdvgy7>
-    - <http://kalitemedya45.xyz:8080:Skartun05:U595TEr3sRyK>
-    - <http://kalitemedya45.xyz:8080:adem000497876:X4k44UgUhf4E>
-    - <http://kalitemedya45.xyz:8080:akrts94old23:MtAb5RFrQY4v>
-    - <http://kalitemedya45.xyz:8080:atmaca23:Jmc2Ds7RXz>
-    - <http://kalitemedya45.xyz:8080:berk6775675823:nQ9MvSaXDVE2>
-    - <http://kalitemedya45.xyz:8080:brh6168:EKpKrPfjkvvR>
-    - <http://kalitemedya45.xyz:8080:brk48:tbn.13022024>
-    - <http://kalitemedya45.xyz:8080:brk8131:cn.18122023>
-    - <http://kalitemedya45.xyz:8080:brkbysl464:Ke7SbTwshJpk>
-    - <http://kalitemedya45.xyz:8080:brky0445:brk00>
-    - <http://kalitemedya45.xyz:8080:btk8743:Qfpz7AEqaN>
-    - <http://kalitemedya45.xyz:8080:bsk05:kdA3YFA3yW>
-    - <http://kalitemedya45.xyz:8080:by0156:bb00>
-    - <http://kalitemedya45.xyz:8080:dgn2148:4hBTNyV6hcm4>
-    - <http://kalitemedya45.xyz:8080:dijitalbaytar:SK2DNrP9Wy>
-    - <http://kalitemedya45.xyz:8080:dgn7925:cn.3009>
-
-- IPTV Pro - Prime Plus (Multiple accounts)
-    - <http://primeplus.tv:8080:7bsH3uRh7X:mWbjXymzcm>
-    - <http://primeplus.tv:8080:jlgBoRsc:BL6cemPBoc>
-    - <http://primeplus.tv:8080:mXCTDmAACh:0BO1GxKDGa>
-    - <http://primeplus.tv:8080:jxhy0NcQnQ:qd7EC3CHn7>
-
-- IPTV Pro - Mixed Sources (Multiple accounts)
-    - <http://209.222.97.118:25461:Dave123:Dave123>
-    - <http://tv.cs10.tv:80:imp2613:1805811>
-    - <http://62.210.139.229:25461:5020350884:gangatv>
-    - <http://194.113.107.243:8000:test1:germania>
-    - <http://alltvpremiere.online:8000:RokuAllTv:Q5SRJ1fbha>
-    - <http://cdn99.live:8080:14863247:Maxtv01176665>
-    - <http://pdsrv.io:25461:alfredo:123456>
-    - <http://interlatins.com:48000:Aurora:Aurora>
-    - <http://sv1.nowiptv.net:8880:Elaine:Elaine>
-    - <http://qqtv.nl:8080:foOL0jmT69:XUoe0xVoDn>
-    - <http://iptv1.mega-ott.com:25461:frsportfranc:6504589030>
-    - <http://sv1.nowiptv.net:8880:gregory:gregory>
-    - <http://beastiptv.tv:25461:Hildebrandt:Hildebrandt>
-    - <http://sv1.nowiptv.net:8880:ivan11:ivan11>
-    - <http://pdsrv.io:25461:jacira:jacira>
-    - <http://sv1.nowiptv.net:8880:Leticia1:Leticia1>
-    - <http://sv1.nowiptv.net:8880:manu:manu>
-    - <http://interlatins.com:48000:Omar123:Omar123>
-    - <http://iptv6.premium-stv.com:25461:pro1osnsourcepro:468556621230pro>
-    - <http://95.154.194.14:8000:rnvfRzOVx9:154ptVEGQR>
-    - <http://xtiptv.xyz:25461:17094:66im8o2DpJ>
-    - <http://158.69.228.135:8000:de-2019:7rd565te3>
-
-- 2565607
-    - <http://2565607.com:8080:guven105:fcSk2GUf>
-    - <http://2565607.com:8080:Eozan1:bcsXfuG3bX>
-
-- CBR New
-    - <http://cbrnew.dyndns.org:8080:uMD04DFb:vQgu4uLYZ2>
-    - <http://cbrnew.dyndns.org:8080:wt31Y8fe:qZZifGLXpH>
-
-- Ghost TV (placeholder credentials)  
-    - <http://ghosttv.art:80>:`<username>`:`<password>`
-
-- M5IP Club
-    - <http://m5ip.club:80:play:HzzVCxDkpBdzFSs-5UByTXqeBXEMoo44pq9HLCDe_8jp5dqYvGA2A_FweCOZ0Nw5PQ26nLXAXJvnCtP9XlXjVrr6dm2xCZVDuFEKgtXc5aU>
-    - <http://m5ip.club:80:play:7oa53eMxvxuto2aGs0ZLm6Y7PT0iYJ_tKJPeJIJLM2MZRKPjZM_sB-lqLBYo6AALr7mlfhnN9JiVhLZf5xsM9nK8-aKXDtyT-ZzdLqf1fzA>
-    - <http://m5ip.club:80:play:LSAABjXI1QHCED6I_3V5uHz5DqVytiWZ-kNymUmT0HrH_ji7y74ce0Loe1gaOyvMu-UB114E-FeIGcg3MULmQykV9EoH5d3b_KnqY11tNjQ>
-    - <http://m5ip.club:80:play:mAr0Tel7H1-TgRwPjU6vZDCNq5pwDII17o7uGVmJCH_R3RVZQH9OT2oezcV-L29dbQGUabdVj9K0g3QaMi5Mn4une1FGrm-h7F3cQCRYJ1Y>
-    - <http://m5ip.club:80:play:mAr0Tel7H1-TgRwPjU6vZDCNq5pwDII17o7uGVmJCH_s2cuDMzqWu9e5yOFvgRH-46bMSTw_AHsgdQccAH5ol5uOr8q5L1oBOkBGaahiAGg>
-
-- MedoTV  
-    - <http://medotv.nl:8000:wAKjYFQfdq:mk7kDOwKOe>
-    - <http://medotv.nl:8000:NX0ggwuRaP:Iqcg2BIk38>
-    - <http://medotv.nl:8000:xBdpPchfbL:AUv9DnAnEa>
-    - <http://medotv.nl:8000:aGS2wdpW3F:63bCWdZQH5>
-
-- Skupi Club
-    - <http://skupi.club:8080:RD026:M3vjVCzwVQ>
-
 - Utrecht 030 OVC (placeholder credentials)
     - <http://utrecht030ovc.xyz:80>:`<username>`:`<password>`
 
-## SPECIAL MAC-BASED CREDENTIALS (Stalker-like)
+- VIP Vahz
+    - <http://vipvahz.top:8080:VIP016261740758943356:5b84d1a125b1>
 
-- Dark Yasar TV
-    - <http://drk.yasar.tv:80:play:live.php?mac=00:1A:79:B7:FB:D7>
+- YRTDS0911 (Multiple accounts)
+    - <http://yrtds0911.xyz:8080:Ruhiyavuz13:4787rvgdvgy7>
+    - <http://yrtds0911.xyz:8080:Mustafakoca:6TnBEa564a>
+    - <http://yrtds0911.xyz:8080:sfk0070:89d0a85f08a9faaf>
+    - <http://yrtds0911.xyz:8080:Dgnclkl:Dgn12>
+    - <http://yrtds0911.xyz:8080:mhmt5570:mhmt00>
+    - <http://yrtds0911.xyz:8080:Aesen123:xRHekNvZT3Vq>
+    - <http://yrtds0911.xyz:8080:vlknaksoy:EXpwfCwZEj>
 
-- Ocean Stream
-    - <http://oceanstream.me:80:play:live.php?mac=00:1A:79:0C:F4:CA>
+- Yesimes OK Nirvana
+    - <http://yesimes.oknirvana.club:8880:DAALM1923:C3ggHrsmbK>
 
-- Polska TV
-    - <http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:B6:8C>
+- World Panel (Multiple accounts)
+    - <http://world-panel.co:8080:svizzer@@:fire@@>
+    - <http://world-panel.co:8080:marcgiord:giordano>
+    - <http://world-panel.co:8080:SALVO-BAR-GALLET@@:ZQRTUKJ76432@@>
+    - <http://world-panel.co:8080:ninonorinberga30:rcLszgyzgjzJ>
+    - <http://world-panel.co:8080:maurizioespano:gfbjjj7jr6eb7j>
+    - <http://world-panel.co:8080:@valent@:wc7RU@ZaUYH>
+    - <http://world-panel.co:8080:vincenzoinghi:inter1234>
 
-- Raptor TV
-    - <http://ds.raptortv.de:80:play:live.php?mac=00:1A:79:07:C5:CD>
+## Sources
+
+- [World IPTV](https://world-iptv.club/)
+- [IPTV Free](https://iptvfree.wuaze.com/)
+- [Codes ITPV - Scribd](https://www.scribd.com/document/463893209/Codes-IPTV-Smarters-txt)
