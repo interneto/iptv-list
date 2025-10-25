@@ -1,7 +1,5 @@
 # XTREAM CODES
 
-Format of Xtream codes.
-
 ```txt
 Stalker Portal Format: title:serverURL:macAddress
 Xtream Playlist Format: http://cbrnew.dyndns.org:8080:uMD04DFb:vQgu4uLYZ2
@@ -10,22 +8,46 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
 
 ## ✅ Working
 
+<http://nexon.cloud-f-proxy.xyz:80/get.php?username=hnl6p6u1z5&password=n4e77b4t4n&type=m3u_plus>
+<http://www.theking365tv.best:2103/get.php?username=0P69ChuCRm&password=334094119718&type=m3u>
+<http://m3.smartca.me/s/gets.php?user=uvIyqmKNlS&pass=0334511904&t=m3uplus&o=mpegts>
+<http://secretoiberico.net:8080/get.php?username=Davidconejo023&password=PGKEjHqg8p&type=m3u>
+<http://www.stvpower.com:2103/get.php?username=jean245633&password=Houston2323&type=m3u>
+
+---
+
+<http://line.rain-ott.com/get.php?username=Ckks7HMG12&password=1VDpJ5Xj4q&type=m3u_plus> - English, Indian and Arabic
+<http://dieselhosting.xyz:83/get.php?username=os4226&password=4226os&type=m3u_plus>
+<http://cazintv.com/get.php?username=471.AdisBajric&password=pnuip2gNXv&type=m3u_plus>
+<http://brtwo.foo:80/get.php?username=794392156024&password=459813702836&type=m3u_plus>
+<http://esproapidd.top:8080/get.php?username=ES011174352098766&password=41745772322851&type=m3u_plus>
+<http://wolfpackmedia.dog/get.php?username=Maxx1&password=Maxx1&type=m3u_plus> - USA content
+<http://achoacho.ddns.net:25461/get.php?username=juanvi&password=juanvi&type=m3u> - Spanish series and movies
+<http://www.newdns.world:8080/get.php?username=JoseGarcia&password=YG64j3w8ag&type=m3u_plus&output=ts> - Brasil, Latin American and Spanish TV + Spanish TV Shows
+<http://booklife.space:8080/get.php?username=fer1512ut&password=fer1512023utwsp&type=m3u&output=ts>
+<http://103.161.34.27:8080/get.php?username=Satilmis&password=sdYAQyyZm7UK&type=m3u_plus>
 <http://013tv.com:8080/get.php?username=F13836&password=35b68aca&type=m3u&output=ts>
 <http://fortv.cc:8080/get.php?username=y5cXUr&password=324580&type=m3u&output=ts>
 <http://fortv.cc:8080/get.php?username=3017851038&password=JACKWES2001@GMAIL.COM&type=m3u&output=ts>
 <http://fortv.cc:8080/get.php?username=Vzd9QC&password=767610&type=m3u&output=ts>
+<http://iptv.wtf:25461/get.php?username=gxdcxnbf&password=1eZr21rf1D&type=m3u_plus&output=ts>
 <http://live.iptv.wtf:80/get.php?username=msuglifj&password=7gt0W8Peq6&type=m3u_plus>
 <http://karaalp.xyz:8080/get.php?username=lt2910&password=tl.1116&type=m3u_plus>
 <http://maxgo.wales:80/get.php?username=8189428960&password=6935406100&type=m3u_plus>
 <http://www.rickylive.it/get.php?username=052L2nk8Hw91hc5&password=9iFRa3MC0o&type=m3u_plus&output=mpegts>
+<http://sonymax.org:8080/get.php?username=hogiratalan&password=ukNmKJrDHQ&type=m3u>
 <http://tvmate.icu:8080/get.php?username=troyleon61@icloud.com&password=BVVTrcFKl2&type=m3u&output=ts>
-<http://m3.smartca.me/s/gets.php?user=uvIyqmKNlS&pass=0334511904&t=m3uplus&o=mpegts>
 <http://www.stvpower.com:2103/get.php?username=ChristopheNAM&password=QO4DS84jPI&type=m3u>
 <http://1tv41.icu:8080/get.php?username=rebecca.burtenshaw89@gmail.com&password=M8M7n451b2&type=m3u>
+<http://worldviptv.online:8080/get.php?username=Abbeschaib&password=xiYnPdjCgm&type=m3u> - TV Shows from Arabian, France, Persian
+
+---
 
 ## 🪦 Outdated
 
 <http://line.din-ott.com/s/gets.php?user=529df7da65&pass=416d8bdac9d4&t=m3uplus&o=mpegts>
+
+---
 
 ## ❌ Not working
 
@@ -92,6 +114,8 @@ Special MAC-based: Xtream:http://polska-tv.xyz:80:play:live.php?mac=00:1A:79:F4:
 <http://yrtds0911.xyz:8080:Ruhiyavuz13:4787rvgdvgy7>
 <http://yesimes.oknirvana.club:8880:DAALM1923:C3ggHrsmbK>
 <http://world-panel.co:8080:svizzer@@:fire@@>
+
+---
 
 ## Sources
 
