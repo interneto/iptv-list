@@ -17,6 +17,7 @@ Xtream_Playlist_Format: http://domain.xyz:8080:uMD04DFb:vQgu4uLYZ2
 
 ### ✅ Working
 
+- [fortv.cc](http://fortv.cc:8080/get.php?username=Vzd9QC&password=767610&type=m3u&output=ts)
 - [m3.smartca](http://m3.smartca.me/s/gets.php?user=uvIyqmKNlS&pass=0334511904&t=m3uplus&o=mpegts) - LiveTV+Series (multi)
 - [nexon.cloud](http://nexon.cloud-f-proxy.xyz:80/get.php?username=hnl6p6u1z5&password=n4e77b4t4n&type=m3u_plus) - LiveTV, Movies (es), Series (es)
 - [secretoiberico.net](http://secretoiberico.net:8080/get.php?username=Davidconejo023&password=PGKEjHqg8p&type=m3u) - LiveTV, Movies, Series (es)
@@ -35,7 +36,6 @@ Xtream_Playlist_Format: http://domain.xyz:8080:uMD04DFb:vQgu4uLYZ2
 - [dieselhosting.xyz](http://dieselhosting.xyz:83/get.php?username=os4226&password=4226os&type=m3u_plus)
 - [esproapidd.top](http://esproapidd.top:8080/get.php?username=ES011174352098766&password=41745772322851&type=m3u_plus)
 - [fortv.cc](http://fortv.cc:8080/get.php?username=3017851038&password=JACKWES2001@GMAIL.COM&type=m3u&output=ts)
-- [fortv.cc](http://fortv.cc:8080/get.php?username=Vzd9QC&password=767610&type=m3u&output=ts)
 - [fortv.cc](http://fortv.cc:8080/get.php?username=y5cXUr&password=324580&type=m3u&output=ts)
 - [iptv.wtf](http://iptv.wtf:25461/get.php?username=gxdcxnbf&password=1eZr21rf1D&type=m3u_plus&output=ts)
 - [karaalp.xyz](http://karaalp.xyz:8080/get.php?username=lt2910&password=tl.1116&type=m3u_plus)
