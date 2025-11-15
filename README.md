@@ -11,13 +11,22 @@ This repository contains curated IPTV (Internet Protocol Television) playlists i
 ## File Structure
 
 ```txt
-list/
 │
-├── iptv-all.m3u
-├── iptv-famous-tv.m3u
-├── iptv-org-all.m3u
-├── iptv-spain-listed.m3u
-└── iptv-world.m3u
+├───links
+│       epg-links.md
+│       iptv-links.md
+│       xtream_iptv_24_10_2025.txt
+│       xtream_links_to_test_txt
+│
+├───list
+│       iptv-all.m3u
+│       iptv-famous-tv.m3u
+│       iptv-org-all.m3u
+│       iptv-spain-listed.m3u
+│       iptv-world.m3u
+│
+└───script
+        tv-play-multiview.ps1
 ```
 
 ## Usage
