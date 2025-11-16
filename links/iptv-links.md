@@ -2,11 +2,12 @@
 
 ## Free public IPTV channels
 
-- [iptv-org - Interneto list](https://raw.githubusercontent.com/interneto/iptv-list/refs/heads/main/list/iptv-famous-tv.m3u)
-- [itv-org - Language Spanish](https://iptv-org.github.io/iptv/languages/spa.m3u)
-- [iptv-org - ES](https://iptv-org.github.io/iptv/countries/es.m3u)
-- [iptv-org - Country UK](https://iptv-org.github.io/iptv/countries/uk.m3u)
-- [iptv-org - Country US](https://iptv-org.github.io/iptv/countries/us.m3u)
+- [FreeTv IPTV](https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8)
+- [IPTV Org - Country UK](https://iptv-org.github.io/iptv/countries/uk.m3u)
+- [IPTV Org - Country US](https://iptv-org.github.io/iptv/countries/us.m3u)
+- [IPTV Org - ES](https://iptv-org.github.io/iptv/countries/es.m3u)
+- [IPTV Org - Spanish](https://iptv-org.github.io/iptv/languages/spa.m3u)
+- [IPTV Org - Interneto list](https://raw.githubusercontent.com/interneto/iptv-list/refs/heads/main/list/iptv-famous-tv.m3u)
 
 ## Premium IPTV
 
@@ -17,13 +18,9 @@ Xtream_Playlist_Format: http://domain.xyz:8080:uMD04DFb:vQgu4uLYZ2
 
 ### ✅ Working
 
-- [fortv.cc](http://fortv.cc:8080/get.php?username=Vzd9QC&password=767610&type=m3u&output=ts)
-- [nexon.cloud](http://nexon.cloud-f-proxy.xyz:80/get.php?username=hnl6p6u1z5&password=n4e77b4t4n&type=m3u_plus) - LiveTV, Movies (es), Series (es)
+- [fortv.cc](http://fortv.cc:8080/get.php?username=Vzd9QC&password=767610&type=m3u&output=ts) - LiveTV, Movies, Series (en)
 - [secretoiberico.net](http://secretoiberico.net:8080/get.php?username=Davidconejo023&password=PGKEjHqg8p&type=m3u) - LiveTV, Movies, Series (es)
-- [smartca](http://m3.smartca.me/s/gets.php?user=uvIyqmKNlS&pass=0334511904&t=m3uplus&o=mpegts) - LiveTV+Series (multi)
-- [stvpower](http://www.stvpower.com:2103/get.php?username=jean245633&password=Houston2323&type=m3u) - LiveTV, Movies, Series (fr, en, ar)
-- [theking365tv](http://www.theking365tv.best:2103/get.php?username=0P69ChuCRm&password=334094119718&type=m3u) - LiveTV, Movies, Series (en, fr)
-- [tvmate.icu](http://tvmate.icu:8080/get.php?username=troyleon61@icloud.com&password=BVVTrcFKl2&type=m3u&output=ts)
+- [tvmate.icu](http://tvmate.icu:8080/get.php?username=troyleon61@icloud.com&password=BVVTrcFKl2&type=m3u&output=ts) - LiveTV, Movies, Series (en)
 
 ---
 
@@ -46,11 +43,15 @@ Xtream_Playlist_Format: http://domain.xyz:8080:uMD04DFb:vQgu4uLYZ2
 - [live.iptv](http://live.iptv.wtf:80/get.php?username=msuglifj&password=7gt0W8Peq6&type=m3u_plus)
 - [maxgo.wales](http://maxgo.wales:80/get.php?username=8189428960&password=6935406100&type=m3u_plus)
 - [newdns](http://www.newdns.world:8080/get.php?username=JoseGarcia&password=YG64j3w8ag&type=m3u_plus&output=ts) - Brasil, Latin American and Spanish TV + Spanish TV Shows
+- [nexon.cloud](http://nexon.cloud-f-proxy.xyz:80/get.php?username=hnl6p6u1z5&password=n4e77b4t4n&type=m3u_plus) - LiveTV, Movies (es), Series (es)
 - [rickylive](http://www.rickylive.it/get.php?username=052L2nk8Hw91hc5&password=9iFRa3MC0o&type=m3u_plus&output=mpegts)
+- [smartca](http://m3.smartca.me/s/gets.php?user=uvIyqmKNlS&pass=0334511904&t=m3uplus&o=mpegts) - LiveTV+Series (multi)
 - [sonymax.org](http://sonymax.org:8080/get.php?username=hogiratalan&password=ukNmKJrDHQ&type=m3u)
 - [stvpower](http://www.stvpower.com:2103/get.php?username=ChristopheNAM&password=QO4DS84jPI&type=m3u)
+- [theking365tv](http://www.theking365tv.best:2103/get.php?username=0P69ChuCRm&password=334094119718&type=m3u&output=ts) - LiveTV, Movies, Series (en, fr)
 - [wolfpackmedia.dog](http://wolfpackmedia.dog/get.php?username=Maxx1&password=Maxx1&type=m3u_plus) - USA content
 - [worldviptv.online](http://worldviptv.online:8080/get.php?username=Abbeschaib&password=xiYnPdjCgm&type=m3u) - TV Shows from Arabian, France, Persian
+- [stvpower](http://www.stvpower.com:2103/get.php?username=jean245633&password=Houston2323&type=m3u) - LiveTV, Movies, Series (fr, en, ar)
 
 ---
 
@@ -130,6 +131,6 @@ Xtream_Playlist_Format: http://domain.xyz:8080:uMD04DFb:vQgu4uLYZ2
 
 ### Sources
 
-- [World IPTV](https://world-iptv.club/)
-- [IPTV Free](https://iptvfree.wuaze.com/)
 - [Codes ITPV - Scribd](https://www.scribd.com/document/463893209/Codes-IPTV-Smarters-txt)
+- [IPTV Free](https://iptvfree.wuaze.com/)
+- [World IPTV](https://world-iptv.club/)
