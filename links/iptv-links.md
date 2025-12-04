@@ -14,13 +14,19 @@
 ```txt
 Xteam_Special_MAC_based: http://domain.xyz:80:play:live.php?mac=00:1A:79:F4:B6:8C
 Xtream_Playlist_Format: http://domain.xyz:8080:uMD04DFb:vQgu4uLYZ2
+[iptv_premium](http://domain.xyz:8080/get.php?username=XXX&password=XXX&type=m3u&output=ts) - LiveTV, Movies, Series (en)
 ```
 
 ### ✅ Working
 
-- [fortv.cc](http://fortv.cc:8080/get.php?username=Vzd9QC&password=767610&type=m3u&output=ts) - LiveTV, Movies, Series (en)
+- [fortv.cc 1](http://fortv.cc:8080/get.php?username=Vzd9QC&password=767610&type=m3u&output=ts) - LiveTV, Movies, Series (en)
+- [fortv.cc 2](http://fortv.cc:8080/get.php?username=dbNK7P&password=058703&type=m3u) - LiveTV, Movies, Series (en)
 - [secretoiberico.net](http://secretoiberico.net:8080/get.php?username=Davidconejo023&password=PGKEjHqg8p&type=m3u) - LiveTV, Movies, Series (es)
-- [tvmate.icu](http://tvmate.icu:8080/get.php?username=troyleon61@icloud.com&password=BVVTrcFKl2&type=m3u&output=ts) - LiveTV, Movies, Series (en)
+- [tvmate.icu](http://tvmate.icu:8080/get.php?username=troyleon61@icloud.com&password=BVVTrcFKl2) - LiveTV, Movies, Series (en)
+- [master2.bestream.football](http://tvappapk@am.master2.bestream.football:9099  Nellorino12345 Nellorino123456)
+- [Zapping.lige](http://tvappapk@tv.zapping.life:8080/get.php?username=hernanllerena1&password=89fVTSCGJS&type=m3u&output=ts) - LiveTV Sports, Movies (es)
+- [bestream.football](http://tvappapk@am.master2.bestream.football:9099/get.php?username=Nellorino12345&password=Nellorino123456&type=m3u&output=ts) - LiveTV, Movies, Series (en)
+- [l1iptv.xyz](http://tvappapk@l1iptv.xyz/get.php?username=rifatunlu&password=pNGsB1FztL&type=m3u&output=ts) - LiveTV, Movies, Series (en)
 
 ---
 
