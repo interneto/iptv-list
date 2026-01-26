@@ -12,7 +12,7 @@
 ## Premium IPTV
 
 ```txt
-Xteam_Special_MAC_based: http://domain.xyz:80:play:live.php?mac=00:1A:79:F4:B6:8C
+Xtream_Special_MAC_based: http://domain.xyz:80:play:live.php?mac=00:1A:79:F4:B6:8C
 Xtream_Playlist_Format: http://domain.xyz:8080:uMD04DFb:vQgu4uLYZ2
 [iptv_premium](http://domain.xyz:8080/get.php?username=XXX&password=XXX&type=m3u&output=ts) - LiveTV, Movies, Series in EN
 ```
